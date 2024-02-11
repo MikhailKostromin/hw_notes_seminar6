@@ -27,7 +27,7 @@ public class Note {
     /**
      * Содержание заметки.
      */
-    private Long content;
+    private String content;
 
     /**
      * Дата создания заметки
